@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. John Petrige's [sic], new prophesie of this present year 1684. Wherein are foretold themost considerable events and mutations in Great-Britain, France, Ireland, Holland, Germany, Italy, &amp;c. According to the opinion of the best astrologers.</title>
+            <author>Partridge, John, 1644-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04920</idno>
+            <idno type="STC">Wing P624</idno>
+            <idno type="STC">ESTC R181495</idno>
+            <idno type="EEBO-CITATION">52614823</idno>
+            <idno type="OCLC">ocm 52614823</idno>
+            <idno type="VID">176004</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176004)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2758:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. John Petrige's [sic], new prophesie of this present year 1684. Wherein are foretold themost considerable events and mutations in Great-Britain, France, Ireland, Holland, Germany, Italy, &amp;c. According to the opinion of the best astrologers.</title>
+                  <author>Partridge, John, 1644-1715.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Reprinted by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>[Edinburgh, :</pubPlace>
+                  <date>Anno 1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Prophecies --  Early works to 1800.</term>
+               <term>Europe --  History --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="prophecy">
+            <pb n="1" facs="tcp:176004:1" rendition="simple:additions"/>
+            <head>Mr. <hi>John Petrige's,</hi> NEW PROPHESIE OF This preſent Year 1684.</head>
+            <head type="sub">WHEREIN Are foretold the moſt conſiderable Events and Mu<g ref="char:EOLhyphen"/>tations in <hi>Great-Britain, France, Ireland, Holland, Germany, Italy,</hi> &amp;c. According to the Opinion of the beſt <hi>Aſtrologers.</hi>
+            </head>
+            <p>THat the Superior have influence on the Inferior Bodies, no man that hath not given himſelf over to ſtupidity can deny; but that their Influence is ſo great that their Effects are inevitable, is more then we affirm: For to what end do we diſturb and amuſe the World with the unpleaſant Rumours of horrid and dreadful Calamities that ſeem ap<g ref="char:EOLhyphen"/>proaching, but to warn and incite men to a uſe of means for the preventing of ſevere Judgments, which otherwiſe will overtake them.</p>
+            <p>We read in the Holy Scripture, that they were placed in the Heavens for Signs of Seaſons, of Night and Day, Winter and Summer, &amp;c. Now if we, beſides the proper and natural meaning of the Words, do likewiſe uſe a Me<g ref="char:EOLhyphen"/>taphorical Interpretation of them, to wit, that they alſo are for Signs of the Night or Winter of Adverſity, and the Day or Summer of Proſperity; I humbly conceive, we do not thereby pervert the true meaning of the Scrip<g ref="char:EOLhyphen"/>tures. And tho we are forbid in the Holy Scriptures to be afraid or diſmaid at the Signs of Heaven, viz. To be poſſeſſed with ſuch a Fear as is incon<g ref="char:EOLhyphen"/>ſiſtent with our confidence in God, or as diſturbs us in performing the Du<g ref="char:EOLhyphen"/>ties we owe, as Creatures, to our great Creator, or ſo as to become Infatuate, that through the exceſs of Fear we ſuffer our Reaſon to be ſo far Eclipſed that we cannot put it in exerciſe, either for our Temporal or Eternal well-Being: Yet I do not ſee but we may Lawfully ſo far be admoniſhed by them, as to forſake an evil courſe, and to deprecat that great Wrath that by our innumerable iniquities we have drawn down upon us. I hope therefore that the candid Reader will concur with me in my deſign in publiſhing this following Prediction on this preſent Year, in which I ſhall be as brief as poſſible.</p>
+            <p>I ſhall begin my Judgment from the time that the Sun entred <hi>Capricorn;</hi> at which time the Face of the Heavens in the Meridian of <hi>London,</hi> is thus: <hi>A<g ref="char:EOLhyphen"/>quarius</hi> Nine Degrees Culminant, and <hi>Gemini</hi> 14. Aſcending, the <hi>Moon</hi> 12. Degrees in <hi>Aquarius,</hi> and <hi>Mars</hi> in Sixteen: the <hi>Sun</hi> 00 Degrees in <hi>Capricorn,</hi> and <hi>Venus</hi> in 8. Degrees of <hi>Capricorn: Mercury</hi> 14 Degrees in <hi>Sagittary,</hi> and <hi>Saturn</hi> in 4 Degrees, and <hi>Jupiter</hi> in 21 Degrees of <hi>Virgo.</hi> There is not one Planet well ſeated in the whole Scheme; the <hi>Moon</hi> is applying to the
+<pb n="2" facs="tcp:176004:2"/>body of <hi>Mars</hi> and ſquare of <hi>Mercury;</hi> theſe two Stars govern the Brain and the Faculties thence proceeding; the <hi>Moon</hi> the ſubſtantial part, and <hi>Mercury</hi> the Actions of it. Now what may we expect, when the two Governors of Reaſon are Afflicted by <hi>Mars,</hi> the great Corroſive among the Stars? The ef<g ref="char:EOLhyphen"/>fects thereof will be (according to the Opinion of moſt famous Aſtrologers) ſtrange Rumors, effuſion of Blood, and much deceit and lying. And this flows, either from the violence of the preſent impending Affairs; or from the effects of ſuch pernicious and wicked Counſels that ſhall be contrived under the influence of this Ingreſs. But this is further aggravated, if we conſider the part of the Heaven where it falls, whether Ecliptically or Mundanely; for the Ecliptical place of this Conjunction is directly oppoſite to the place of the laſt Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Leo:</hi> this doth greatly en<g ref="char:EOLhyphen"/>creaſe its Malignity; but Mundanely, it happens in this Figure and Meridi<g ref="char:EOLhyphen"/>an too, in the tenth Houſe, the Angle of Honour.</p>
+            <p>The great Maſters of this Science do agree, that the <hi>Moon</hi> in Conjunction with <hi>Mars,</hi> threatens Mankind with all kinds of Calamities that belong to <hi>Mars;</hi> and as they are ſo near Mid heaven, it ſhews its expedition, and that what depends on this Ingreſs, will ſhortly appear.</p>
+            <p>In the beginning of this Year we meet with an oppoſition of <hi>Saturn</hi> and <hi>Mars</hi> in cold Signs, <hi>Virgo</hi> and <hi>Piſces,</hi> after which follows an Eclipſe of the <hi>Sun,</hi> which has a very bad influence. That Epidemick Diſtemper of Itch<g ref="char:EOLhyphen"/>ing after Novelties, will be no leſs common now, than it hath been theſe ſe<g ref="char:EOLhyphen"/>veral Years paſt. <hi>Saturn</hi> and <hi>Jupiter</hi> being got into <hi>Virgo,</hi> and <hi>Saturn</hi> be<g ref="char:EOLhyphen"/>ing there in Reception with <hi>Mercury,</hi> things will be Managed with great Se<g ref="char:EOLhyphen"/>crecy and Policy. And the former Oppoſition in a little time will diſcover it ſelf in making ſtrange Diviſions among the people; and to ſee one impeach<g ref="char:EOLhyphen"/>ing another will be no matter of Admiration. Alſo not a few ſhall pay their laſt debts to Nature.</p>
+            <p>
+               <hi>Saturn</hi> by his Retrograde motion returns into <hi>Leo,</hi> at which time many Pam<g ref="char:EOLhyphen"/>phlets are diſperſed, for which the Authors and Printers are called to anſwer. <hi>Sol</hi> oppoſes the 2 Superiors. Many forſake honeſt Callings and turn High<g ref="char:EOLhyphen"/>way-men: The Popiſh Prieſts beſtir their ſtumps, for their God is like to be taken away from them. The <hi>Turk</hi> is buſie in his Neighbour Countries, and many ſhortly may taſte his Mercy. <hi>Mercury</hi> is oppoſed again by <hi>Jupiter.</hi> Old Sores begin to pain. The City is uneaſie, and the Countrey little better. The Trine of <hi>Jupiter</hi> and <hi>Venus</hi> may give ſome eaſe, but heals not the Wound. <hi>Mercuries</hi> weakneſs occaſions decay of Trade. <hi>Saturns</hi> Square to <hi>Venus</hi> will make Women wear Tears on their Faces inſtead of Pearl. The Effects of the <hi>Comet</hi> 1680. will I fear ere long be diſcovered. God preſerve the Life and Health of all our great Ones, and our City from Contagious Diſtempers. The Square of <hi>Sol</hi> and <hi>Saturn</hi> denotes Fears, Anxieties and Impriſonment to great Ones, and that Rulers and Magiſtrates will fall out among themſelves; and the Conjunction of <hi>Mars</hi> and <hi>Mercury</hi> fills the Nation with Thieves, and <hi>I</hi> fear the time is at hand, when no body can call any thing their own ſave Tri<g ref="char:EOLhyphen"/>bulation and Affliction.</p>
+            <p>The Conjunction of the <hi>Sun</hi> and <hi>Mars</hi> will have a ſtrange Effect in ſome Countreys in <hi>Europe,</hi> and ſome Prince perhaps Eaſt from <hi>England</hi> finds it true. Let them therefore be wiſe betimes. Some Money'd Men ſhall ſuffer loſs, and that from the breaking of ſome great Banker or Bankers, in or about the City of <hi>London;</hi> ſome Clergy men may be frowned upon by his Prince, and ſeveral belonging to the Law turned out.</p>
+            <p>The Eclipſe of the <hi>Sun Jul.</hi> the 3d. is very conſiderable. Its happening in the 9th. and 8th. Houſes, and <hi>Mars</hi> the principal Lord thereof, ſheweth
+<pb n="3" facs="tcp:176004:2"/>Wars, Seditions, Captivities, Impriſonments, popular Tumults, diſpleaſure of Princes; alſo Death and detriment in Mens Bodies, burning Feavers, and Violent Deaths, chiefly of young Men; in our Lives, Violences, Injuries, Burning of Houſes, and Towns, Man-ſlaughter, Rapes and Robberies; In the Air, Peſtilence and Contagious Winds, Flaſhing Lightnings, and Whirl<g ref="char:EOLhyphen"/>winds, according to <hi>Ptolemies</hi> Opinion. The ſame Author ſays, that its hap<g ref="char:EOLhyphen"/>pening in a Tropick, ſignifies mutation of Air, and in publick Matters, a change of Laws and Cuſtoms; and that an Eclipſe in <hi>Cancer</hi> brings damnage to the Fruits of the Earth and Sea affairs.</p>
+            <p>
+               <hi>Saturn</hi> threatens to give ſome Perſons of Honour their <hi>Exit.</hi> The poſi<g ref="char:EOLhyphen"/>tion of <hi>Mars</hi> and <hi>Mercury</hi> denote ſome Sea Fights, or Piratical Invaſions, many great Robberies, with many other Adverſities. <hi>Venus</hi> produceth alte<g ref="char:EOLhyphen"/>rations in Ceremonies, Religion, Inſtitutions, and Laws. <hi>Orig.</hi> 460.</p>
+            <p>In a word, this Eclipſe conſidered with that <hi>Jan.</hi> 1683. the great Conjuncti<g ref="char:EOLhyphen"/>on of <hi>Saturn</hi> and <hi>Jupiter,</hi> 1683. and the <hi>Comit</hi> in 1680. threaten the O<g ref="char:EOLhyphen"/>verthrow of the Roman Hierarchy, if Authors may be credited. Y<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ma<g ref="char:EOLhyphen"/>ny other places beſides are concerned more or leſs;; as <hi>Armenia, Con<g ref="char:EOLhyphen"/>stantinople, Damaſcus, Ceſena, Bramberg, Bohemia, Brabant, Corduba,</hi> the Weſt, and South-weſt of <hi>England, Flanders, Holland, Hircadia, London, Lovain, Italy, Metz, Norimberg, Scotland, Turky, Cicily, &amp;c.</hi> The e<g ref="char:EOLhyphen"/>vents will begin to work from the firſt hour, but will be more apparent the Year following, and will continue for ſeveral Years. I will conclude what I ſay on this Eclipſe with the predictions <hi>Cyprian Leovitius.</hi> 
+               <q>O ye Kings, and Princes, that are exalted either to Secular or Spiritual Digni<g ref="char:EOLhyphen"/>ties, many Evils ſeem to threaten you, for diſſentions ſhall ariſe among you, which ſhall occaſion Wars, Dangers and Mutations, whence the common People will be diſcontented, and will be eaſiely ſtirred up to Conſpiracies and Factions, <hi>&amp;c.</hi>
+               </q> Certainly ſome things of great concernment will in few Years be brought about. Few Princes in <hi>Europe</hi> but will more or leſs be lyable to the effects thereof.</p>
+            <p>The next conſiderable. Appearance this Year is the Conjunction of <hi>Saturn</hi> and <hi>Mars,</hi> in the beginning of <hi>October,</hi> in 13. Degrees of <hi>Virgo,</hi> the Houſe and Dignities of <hi>Mercury,</hi> which I ſhall a little unfold; for the more hap<g ref="char:EOLhyphen"/>py performance of which, I ſhall conſider the Lunation preceeding. Firſt then, know that <hi>Saturn</hi> is really peregrine, and therefore the more malevo<g ref="char:EOLhyphen"/>lent; <hi>Mars</hi> is out of all Dignities of his own, but in Sextile, and Reception with <hi>Mercury;</hi> ſo that <hi>Mars</hi> muſt be allowed ſome fortitude, tho not much, yet enough to exceed <hi>Saturn.</hi>
+            </p>
+            <p>At the preventional new <hi>Moon</hi> we ſhall find all the Planets under the Earth, and <hi>Saturn</hi> and <hi>Mars</hi> in the fifth Houſe with <hi>Venus,</hi> which if well conſider<g ref="char:EOLhyphen"/>ed is a ſtrange Heterogeneous Mixture, juſt like an old decrepit Uſurer, a bold true bred Souldier, and a Luxurious Wench. But what the effects may be let us Conſider.</p>
+            <p>
+               <hi>Haly</hi> ſays; <q>When <hi>Mars</hi> ſhall be joined to <hi>Saturn</hi> in a humane Sign, it gives Strife, Deceit, Fighting, Effuſion of Blood, and that the King of that Coun<g ref="char:EOLhyphen"/>trey ſubject to the ſign of the Conjunction, ſhall be troubled and ſuffer Loſs and Labour from his Neighbours or Subjects.</q> 
+               <hi>Morinus</hi> ſays, <q>That the Conjunction of <hi>Saturn</hi> and <hi>Mars</hi> gives Corruption of the Air, Plague, War, <hi>&amp;c.</hi>
+               </q> And to this purpoſe alſo <hi>Albumaſſar</hi> ſays; <q>That there ſhall be Difference and Wars, in many places.</q> So that all Authors agree, that this Con<g ref="char:EOLhyphen"/>junction can preſage nothing but Evil to Mankind. But becauſe Au<g ref="char:EOLhyphen"/>thors in this are only general, I ſhall particularly give you my Judgement of it.</p>
+            <p>
+               <pb n="4" facs="tcp:176004:3"/>
+In the Figure we find <hi>Gemini</hi> aſcending, and <hi>Mercury</hi> Lord of the Aſcen<g ref="char:EOLhyphen"/>dant in <hi>Scorpio,</hi> a fixed violent Sign, and all the ſeven Planets in the Fifth and Sixth Houſes of Heaven, and under the Earth. This ſhews ſome great Meeting or Council conveened to conſult about the affairs of Nations; the deſign is conſiderable as well as Politick, for it is in the Houſe of <hi>Mercury,</hi> and his greateſt Dignities too. The occaſion of this Conſultation is by reaſon of ſome defeat either in Council or Arms ſome few weeks before this Con<g ref="char:EOLhyphen"/>junction; and it is ſo general, that the whole Faction both Men and Wo<g ref="char:EOLhyphen"/>men are engaged both for Council and Action: but Debauchery will either prevent or Corrupt the Enterprize deſigned: it is for ſome undertaking to confederate in Arms or ſome other hoſtile Combination, in which ſeveral are Solicited to be engaged, as we may ſee by ſo many in the fifth Houſe, which ſignifies Ambaſſadors, Agents, Meſſengers, , and ſuch like Servants, to a Prince or State, theſe are ſent to engage ſome Prince or Princes into a League and Alliance, or to Treat or Negotiate about a Peace, <hi>&amp;c</hi>
+            </p>
+            <p>In the cloſe of this Year ſome Countries are threatned with perſecution for Religion, and that pretty ſharp too: The old Adverſary of mans Happi<g ref="char:EOLhyphen"/>neſſe will not ceaſe to ſtir up the Wicked againſt the Juſt: and this is like to happen in ſome places in <hi>France,</hi> and it is to be feared many will be forced into other Countries for Conſcience ſake: the great Whore will never be weary of her Cruelties till the laſt Vials are poured out upon her, when the joyful tidings ſhall come abroad, that, BABILON THE GREAT IS FALLEN, IS FALLEN; Which all good Chriſtians earneſtly long for, and which we hope ere long ſhall come to paſſe.</p>
+            <p>To conclude, we have reaſon to fear this Year may prove more Calamitous the moſt we have yet ſeen, there being ſcare any Affliction incident to men, which we are not more or leſſe threatned with: But yet, as I ſaid before, theſe Judgements may be averted (if we be not obſtinate) by our Repentance and Amendement of our Lives. Let us not therefore any more be active in drawing down Judgements upon our ſelves, but let us admire infinite Mer<g ref="char:EOLhyphen"/>cy that hath ſpared us ſo long and that ſhews how unwilling he is to deſtroy us by his placing his Signs in the Heavens for our Admonition; let us de<g ref="char:EOLhyphen"/>precate that great wrath we have incenſed, by our continual Addreſſes to the Throne of Grace; let us fear God, obey the King, and live in Peace, and Union together; which if we do, we need not fear (notwithſtanding the greatneſſe of our Sins, or Malice of our Enemies, or the Signs of Hea<g ref="char:EOLhyphen"/>ven) but we ſhall yet dwell ſafely every man under his Vine, and under his Fig-tree.</p>
+         </div>
+      </body>
+      <back>
+         <div type="copyright_notice">
+            <p>
+               <hi>Entered according to Order.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred Majeſtie. <hi>Anno 1684.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
